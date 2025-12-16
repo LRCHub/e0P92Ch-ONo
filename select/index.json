@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "OvertuRe:",
+  "base_artist": "KiRaRe",
+  "createdAt": "2025-12-16T12:47:06.911216Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Queen Of All The Tarts (Overture)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/01_Queen_Of_All_The_Tarts_(Overture)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Exogenesis: Symphony, Pt. 1 (Overture)",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/02_Exogenesis__Symphony,_Pt._1_(Overture)_Muse.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Exogenesis: Symphony Part I (Overture)",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/03_Exogenesis__Symphony_Part_I_(Overture)_Muse.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Exogenesis: Symphony Part 1 [Overture]",
+      "artist": "Muse",
+      "has_synced": false,
+      "path": "select/04_Exogenesis__Symphony_Part_1_[Overture]_Muse.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "10538 Overture",
+      "artist": "Electric Light Orchestra",
+      "has_synced": false,
+      "path": "select/05_10538_Overture_Electric_Light_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Odyssey Overture",
+      "artist": "Jean-Michel Jarre",
+      "has_synced": true,
+      "path": "select/06_Odyssey_Overture_Jean-Michel_Jarre.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Overture - My Roots: Money (That's What I Want) / Messin' With the Kid",
+      "artist": "Todd Rundgren",
+      "has_synced": false,
+      "path": "select/07_Overture_-_My_Roots__Money_(That's_What_I_Want)___Messin'_With_the_Kid_Todd_Rundgren.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Overture — My Roots: Money (That's What I Want)/Messin' With the Kid",
+      "artist": "Todd Rundgren",
+      "has_synced": false,
+      "path": "select/08_Overture_—_My_Roots__Money_(That's_What_I_Want)_Messin'_With_the_Kid_Todd_Rundgren.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Overture Piccante",
+      "artist": "Freddie Mercury feat. Montserrat Caballé",
+      "has_synced": true,
+      "path": "select/09_Overture_Piccante_Freddie_Mercury_feat._Montserrat_Caballé.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Overture Piccante (New Orchestrated Version)",
+      "artist": "Freddie Mercury",
+      "has_synced": true,
+      "path": "select/10_Overture_Piccante_(New_Orchestrated_Version)_Freddie_Mercury.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Overture Piccante (Orchestral Version)",
+      "artist": "Freddie Mercury",
+      "has_synced": true,
+      "path": "select/11_Overture_Piccante_(Orchestral_Version)_Freddie_Mercury.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Move on Baby (Overture & RAF Zone mix)",
+      "artist": "Cappella",
+      "has_synced": false,
+      "path": "select/12_Move_on_Baby_(Overture_&_RAF_Zone_mix)_Cappella.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Theme From S-Express (Overture)",
+      "artist": "S’Express",
+      "has_synced": true,
+      "path": "select/13_Theme_From_S-Express_(Overture)_S’Express.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stealth Overture",
+      "artist": "Apollo 440",
+      "has_synced": false,
+      "path": "select/14_Stealth_Overture_Apollo_440.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Overture",
+      "artist": "Jacob Collier feat. Metropole Orkest & Jules Buckley",
+      "has_synced": true,
+      "path": "select/15_Overture_Jacob_Collier_feat._Metropole_Orkest_&_Jules_Buckley.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OvertuRe:",
+      "artist": "KiRaRe",
+      "has_synced": false,
+      "path": "select/pl_01_OvertuRe_KiRaRe.txt"
+    }
+  ]
+}
